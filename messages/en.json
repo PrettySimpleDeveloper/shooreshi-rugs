@@ -1,0 +1,184 @@
+{
+  "Navigation": {
+    "About": "About",
+    "Contact": "Contact",
+    "Blog": "Blog",
+    "Rugs": "Rugs"
+  },
+
+  "Footer": {
+    "About": {
+      "Title": "About Shooreshi Rugs",
+      "Text": "Shahroushi Rug Manufacturing is proud to have employed the finest artists and most skilled craftsmen in this ensemble for the past 150 years. Selecting the finest materials necessary to produce the highest quality works of art is the top priority for the Master and his subsequent generations."
+    },
+    "Address": {
+      "Title": "Address",
+      "Text": "Shooreshi Rugs, Shah Squeare, Isfahan"
+    },
+    "Company": {
+      "Title": "Company",
+      "Links": {
+        "Home": "Home",
+        "About": "About",
+        "Contact": "Contact",
+        "Blog": "Blog",
+        "Rugs": "Rugs"
+      }
+    },
+    "Phone": {
+      "Title": "Tell",
+      "Text": "+989231237534"
+    },
+    "CopyRight": {
+      "Title": "Copyright",
+      "Text": "All right reserved by Shooreshi Rugs Ltd"
+    }
+  },
+
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "icon": "{icon, select, fa {ir} en {us} other {Unknown}}",
+    "locale": "{locale, select, fa {Farsi} en {English} other {Unknown}}"
+  },
+
+  "HomePage": {
+    "Hero": {
+      "Title": "",
+      "Subtitle": "",
+      "CallToAction": "Expolore Rugs"
+    },
+
+    "LatestSection": {
+      "Title": "Latest Rugs",
+      "BeforeTitle": "What's new?"
+    },
+
+    "BestSection": {
+      "Title": "Best Rugs",
+      "BeforeTitle": "What's best?"
+    },
+
+    "SizesSection": {
+      "Title": "Rugs by Size ",
+      "BeforeTitle": "What's sizes?",
+
+      "Sizes": {
+        "Small": "Small",
+        "Medium": "Medium",
+        "Large": "Large",
+        "ExtraLarge": "Extra Large",
+        "Runners": "Runners"
+      }
+    },
+
+    "ReviewsSection": {
+      "Title": "Customer's Review",
+      "BeforeTitle": "What say?"
+    },
+
+    "WhyUs": {
+      "Authenticity": {
+        "Title": "Authenticity",
+        "Text": "Guaranteeing the high quality of the product and its originality"
+      },
+
+      "Delivery": {
+        "Title": "Delivery",
+        "Text": "Free Shipping to all parts of the world"
+      },
+      "Returns": {
+        "Title": "Returns",
+        "Text": "The possibility of returning the product in case of discrepancy"
+      },
+      "Payment": {
+        "Title": "Payment",
+        "Text": "Support for different payment methods"
+      }
+    }
+  },
+
+  "AboutUsPage": {
+    "ReviewsSection": {
+      "Title": "Customer's Review",
+      "BeforeTitle": "What say?"
+    }
+  },
+
+  "ContactUsPage": {
+    "Title": "Contact Us",
+    "Form": {
+      "FirstName": "First Name",
+      "LastName": "Last Name",
+      "Email": "Email",
+      "Message": "Message"
+    }
+  },
+
+  "RugCard": {
+    "SizeBetween": "X"
+  },
+
+  "RugsPage": {
+    "RugCard": {
+      "SizeBetween": "X",
+      "CallToAction": "More Details"
+    },
+    "SearchFilters": {
+      "SortedBy": {
+        "Title": "Sorted by",
+        "Sort": {
+          "Name": "Name",
+          "NewestAdded": "Newest Added",
+          "OldestAdded": "Oldest Added"
+        }
+      },
+      "Sizes": {
+        "Title": "Sizes",
+        "Filters": {
+          "MaximumWidth": "Maximum Width",
+          "MaximumLength": "Maximum Length"
+        },
+        "Measurements": "CM"
+      },
+      "CallToAction": "Search"
+    }
+  },
+
+  "RugPage": {
+    "Description": "Description",
+    "RugFeatures": {
+      "Name": "Name",
+      "Origin": "Origin",
+      "Width": "Width",
+      "Length": "Length",
+      "NumberOfKnots": "Number of Knots",
+      "Idea": "Idea",
+      "Material": "Material",
+      "Designer": "Designer",
+      "ProductDesigner": "Product Designer",
+      "NumberOfWeavers": "Number of Weavers",
+      "Images": "Images",
+      "Key": "Key",
+      "Certificate": "Certificate"
+    }
+  },
+
+  "BlogsPage": {
+    "Title": "Latest Blog",
+    "BlogCard": {
+      "CallToAction": "View Post"
+    }
+  },
+
+  "BlogPage": {
+    "By": "By",
+    "On": "on",
+    "Categories": "Categories",
+    "Tags": "Tags"
+  },
+
+  "NotFoundPage": {
+    "Title": "Page not found",
+    "CallToAction": "Back to Home"
+  }
+}

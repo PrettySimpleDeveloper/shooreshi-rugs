@@ -1,0 +1,184 @@
+{
+  "Navigation": {
+    "About": "درباره ما",
+    "Contact": "ارتباط با ما",
+    "Blog": "بلاگ",
+    "Rugs": "فرش‌ها"
+  },
+
+  "Footer": {
+    "About": {
+      "Title": "درباره قالی شوریشی",
+      "Text": "کارخانه قالی شوریشی افتخار دارد که طی ۱۵۰ سال گذشته بهترین هنرمندان و ماهرترین صنعتگران را در این مجموعه به خدمت گرفته است. انتخاب بهترین مواد لازم برای تولید آثار هنری با بالاترین کیفیت، اولویت اصلی استاد و نسل‌های بعدی او بوده است."
+    },
+    "Address": {
+      "Title": "آدرس",
+      "Text": "قالی شوریشی، میدان شاه، اصفهان"
+    },
+    "Company": {
+      "Title": "شرکت",
+      "Links": {
+        "Home": "خانه",
+        "About": "درباره ما",
+        "Contact": "تماس",
+        "Blog": "وبلاگ",
+        "Rugs": "فرش ها"
+      }
+    },
+    "Phone": {
+      "Title": "تلفن",
+      "Text": "+۹۸۹۲۳۱۲۳۷۵۳۴"
+    },
+    "CopyRight": {
+      "Title": "کپی رایت",
+      "Text": "تمامی حقوق برای شرکت قالی شوریشی محفوظ است"
+    }
+  },
+
+  "LocaleSwitcher": {
+    "label": "تغییر زبان",
+    "icon": "{icon, select, fa {ir} en {us} other {Unknown}}",
+    "locale": "{locale, select, fa {فارسی} en {انگلیسی} other {ناشناس}}"
+  },
+
+  "HomePage": {
+    "Hero": {
+      "Title": "",
+      "Subtitle": "",
+      "CallToAction": "جست و جوی فرش‌ها"
+    },
+
+    "LatestSection": {
+      "Title": "آخرین فرش‌ها",
+      "BeforeTitle": "فرش جدید؟"
+    },
+
+    "BestSection": {
+      "Title": "بهترین فرش‌ها",
+      "BeforeTitle": "بهترین ها؟"
+    },
+
+    "SizesSection": {
+      "Title": "فرش‌ها بر اساس سایز ",
+      "BeforeTitle": "چه سایزی؟",
+
+      "Sizes": {
+        "Small": "کوچک",
+        "Medium": "متوسط",
+        "Large": "بزرگ",
+        "ExtraLarge": "خیلی بزرگ",
+        "Runners": "راهرو"
+      }
+    },
+
+    "ReviewsSection": {
+      "Title": "نظرات مشتریان",
+      "BeforeTitle": "چی میگن؟"
+    },
+
+    "WhyUs": {
+      "Authenticity": {
+        "Title": "اصالت",
+        "Text": "تضمین کیفیت بالای محصول و اصالت آن"
+      },
+
+      "Delivery": {
+        "Title": "تحویل",
+        "Text": "ارسال رایگان به تمام نقاط دنیا"
+      },
+      "Returns": {
+        "Title": "بازگشت",
+        "Text": "امکان عودت کالا در صورت مغایرت"
+      },
+      "Payment": {
+        "Title": "پرداخت",
+        "Text": "پشتیبانی از روش های مختلف پرداخت"
+      }
+    }
+  },
+
+  "AboutUsPage": {
+    "ReviewsSection": {
+      "Title": "نظرات مشتریان",
+      "BeforeTitle": "چی میگن؟"
+    }
+  },
+
+  "ContactUsPage": {
+    "Title": "تماس با ما",
+    "Form": {
+      "FirstName": "نام",
+      "LastName": "نام خانوادگی",
+      "Email": "ایمیل",
+      "Message": "پیام"
+    }
+  },
+
+  "RugCard": {
+    "SizeBetween": "در"
+  },
+
+  "RugsPage": {
+    "RugCard": {
+      "SizeBetween": "در",
+      "CallToAction": "اطلاعات بیشتر"
+    },
+    "SearchFilters": {
+      "SortedBy": {
+        "Title": "مرتب سازی",
+        "Sort": {
+          "Name": "نام",
+          "NewestAdded": "جدید ترین",
+          "OldestAdded": "قدیمی ترین"
+        }
+      },
+      "Sizes": {
+        "Title": "سایز",
+        "Filters": {
+          "MaximumWidth": "حداکثر عرض",
+          "MaximumLength": "حداکثر طول"
+        },
+        "Measurements": "سانتی متر"
+      },
+      "CallToAction": "جست و جو"
+    }
+  },
+
+  "RugPage": {
+    "Description": "توضیحات",
+    "RugFeatures": {
+      "Name": "اسم",
+      "Origin": "خواستگاه",
+      "Width": "عرض",
+      "Length": "طول",
+      "NumberOfKnots": "تعداد گره",
+      "Idea": "ایده",
+      "Material": "متریال",
+      "Designer": "طراح",
+      "ProductDesigner": "مجری طرح",
+      "NumberOfWeavers": "تعداد بافنده",
+      "Images": "تصاویر",
+      "Key": "کلید",
+      "Certificate": "گواهی"
+    }
+  },
+
+  "BlogsPage": {
+    "Title": "آخرین پست ها",
+    "BlogCard": {
+      "CallToAction": "مشاهده پست"
+    }
+  },
+
+  "BlogPage": {
+    "By": "توسط",
+    "On": "در",
+    "Categories": "دسته بندی ها",
+    "Tags": "برچسب ها"
+  },
+
+  "NotFoundPage": {
+    "Title": "صفحه مورد نظر یافت نشد",
+    "CallToAction": "برگشت به صفحه اصلی"
+  }
+}
