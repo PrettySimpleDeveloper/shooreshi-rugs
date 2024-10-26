@@ -35,7 +35,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.2.1",
-    "sharp": "^0.33.4",
+    "sharp": "^0.33.5",
     "tailwind-merge": "^2.3.0",
     "typescript": "^5.5.2",
     "xml-escape": "^1.1.0"
